@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="EII Accesorios" target="introduccion" />
+  <tocitem text="Acceso" >
+  	<tocitem text="Registrarse" target="registrarse" />
+  	<tocitem text="Iniciar sesion" target="iniciarSesion" />
+  </tocitem>
+  
+   <tocitem text="Carrito" >
+  	<tocitem text="Modificar carrito" target="carrito" />
+  	<tocitem text="Añadir al carrito" target="addCarrito" />
+  </tocitem>
+  
+
+  <tocitem text="Filtrar precios" target="filtrado" />
+
+</toc>
